@@ -1,0 +1,22 @@
+{
+  "name": "retroarch-core-manager",
+  "displayName": "RetroArch Core Manager",
+  "programType": "core-manager",
+  "repositoryContents": "Project documentation and artwork",
+  "downloadPage": "https://meteoric-rook-835.github.io/",
+  "descriptionSource": "Project owner",
+  "sections": [
+    "Core categories",
+    "Content directories",
+    "Input profiles"
+  ],
+  "topics": [
+    "retroarch-core-manager",
+    "retroarch-tools",
+    "retroarch-menu",
+    "retroarch-settings",
+    "retroarch-configs",
+    "retroarch-core-categories",
+    "retroarch-content-directories"
+  ]
+}
